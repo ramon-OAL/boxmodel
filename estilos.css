@@ -1,0 +1,45 @@
+.contenedor{
+	background-color:#55d9c3;
+}
+.caja1{
+	background-color: #80231b;
+	border: 5px black solid;
+}
+.caja2{
+	background-color: #58a87f;
+}
+.caja3{
+	background-color: #f2a574;
+}
+.borde{
+	border:2px solid black;
+}
+.margen{
+	margin:10px;
+margin-bottom:20px;}
+
+/*b/*utton{
+	padding: 10px;
+	margin-bottom: 20px !important;
+*/
+
+
+.contenedor2{
+	padding:10px;
+	background-color:#55d9c3;
+}
+
+button.caja2{
+	padding-top: 20px;
+
+}
+button.caja3{
+	padding:0px 15px 0px 15px;
+	padding: 0px 15px;
+}
+div.caja1,div.caja2,div.caja3{
+	border-bottom: 5px solid black;
+}
+div.contenedor{
+	padding:15px;
+}
